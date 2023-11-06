@@ -40,7 +40,7 @@ export class PlayerController extends Component {
         this._startJump = true;
         this._jumpStep = step;
         this._curJumpTime = 0;
-//hahah
+//hahahhahah
         const clipName = step == 1 ? 'oneStep' : 'twoStep';
         const state = this.BodyAnim.getState(clipName);
         this._jumpTime = state.duration;
