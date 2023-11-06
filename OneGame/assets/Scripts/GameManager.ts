@@ -16,7 +16,7 @@ export class GameManager extends Component {
     start() {
             //...
     }
-
+//nihai
     update(deltaTime: number) {
         
     }
